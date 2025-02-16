@@ -19,10 +19,6 @@ Status:
 
 Spread the word! And please report bugs and new URLs via the [issue tracker](https://github.com/mreichelt/block-disinformation-extension/issues).
 
-## Wanted
-
-- Firefox for Android: how to publish it here?
-
 ## Technical info
 
 To regenerate the `rules_*` files, run:
