@@ -27,7 +27,7 @@
     },
     "browser_specific_settings": {
         "gecko": {
-            "id": "block_disinformation"
+            "id": "block_disinformation@marcreichelt"
         }
     }
 }
