@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?bermenia-lp\\.com",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    }
+]

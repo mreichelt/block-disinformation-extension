@@ -1,0 +1,1874 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?ensemble-24\\.fr",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?kbsf-tv\\.com",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?berliner-wochenzeitung\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?zeitgeschenen\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?anderemeinung\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?wehrpflicht2025\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?echozeit\\.com",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?presseneu\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?nrtv\\.online",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?w-a-munchen\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?andererseits-seite\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?fr-press\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?deutsch-w\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?oku-nachrichten\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?scheinwerfen\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?news-checker\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?konusnews\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?einmaleinsneu\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?deinequellen\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?wdr-hall\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?resonieren\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?berlinertagespost\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?nnberlin\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?cito-novit\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?f-aktuell\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?weitwinkelmedien\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?klartext-news\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?tageblatt-berlin\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?b-blatt\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?brlnr-stimme\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?an-berlin\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?newsletters-berlin\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?xn--wochenberblick-berlin-eic\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?aktuellenews-berlin\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?berlin-apropos\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?heute-inberlin\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?hamburger-anzeiger\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?hamburger-sichtweisen\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?nachrichtendestages\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?alles-klar-hamburg\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?n-a-h\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?hamburg-ex\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?das-denkt-hamburg\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?hamb-post\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?h-np\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?dznachrichten\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?stimmedeutsch\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?infomediafuerdich\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?media-transparent\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?doch-infomedia\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?prinzipienfest\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 52,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?in-absicht\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 53,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?kernpunkt-infomedia\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 54,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?info-stichpunkt\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 55,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?ausdemueberall\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?einfachandersinfo\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?thesis-info\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?newsfuereuch\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?nachrichtenunabhaengig\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?gegengewicht-media\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?la-cher\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?gegenleitmedien\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?deutschenachrichtenstelle\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?infomediaregierungskritisch\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?info-mediaplattform\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?diewahreseite\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?guckmalgenauhin\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?zeitenwende-news\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 69,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?aktuellde\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 70,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?internetpoebler-info\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 71,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?herrpostillon\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 72,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?newswichtig\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 73,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?unmittelbar-medien\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 74,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?mehrstimmen\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 75,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?aktuell-nachricht\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 76,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?allethemen24\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 77,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?ins-gesicht\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 78,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?aktuelles-aus-nurnberg\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 79,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?kernrecht\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 80,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?seite-eins-nachrichten\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 81,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?ungeziert-info\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 82,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?tagesnews-24\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 83,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?polemisch-infomedia\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 84,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?newsmacher\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 85,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?sag-das\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 86,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?in-und-ausland\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 87,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?nudis-verbis\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 88,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?expert-infomedien\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 89,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?de-nachrichtenseite\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 90,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?alles-wichtig-news\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 91,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?novanachrichten\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 92,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?vollverstand\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 93,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?dasneueste-online\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 94,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?munchener-nachrichten\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 95,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?tagundnacht24\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 96,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?laut-medien\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 97,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?rundumdieuhr-24\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 98,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?onlinedaheim-24\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 99,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?onlineunterwegs\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 100,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?ruf-der-freiheit\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 101,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?informant-info\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 102,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?top-news-munchen\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 103,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?kurzchronik\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 104,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^https?:\\/\\/(.*\\.)?visionar-info\\.de",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "image",
+                "xmlhttprequest",
+                "other"
+            ]
+        }
+    }
+]

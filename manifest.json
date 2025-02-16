@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Block Disinformation",
+    "version": "1.0",
+    "description": "Blocks known web pages containing disinformation.",
+    "permissions": [
+        "declarativeNetRequest",
+        "activeTab"
+    ],
+    "host_permissions": [
+        "*://*/*"
+    ],
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "block_rules_storm1516_correctiv",
+                "enabled": true,
+                "path": "rules_storm1516_correctiv.json"
+            },
+            {
+                "id": "block_rules_storm1516_extended",
+                "enabled": true,
+                "path": "rules_storm1516_extended.json"
+            }
+        ]
+    },
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}
