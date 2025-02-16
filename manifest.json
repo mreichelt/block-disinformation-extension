@@ -4,11 +4,7 @@
     "version": "1.0",
     "description": "Blocks known web pages containing disinformation.",
     "permissions": [
-        "declarativeNetRequest",
-        "activeTab"
-    ],
-    "host_permissions": [
-        "*://*/*"
+        "declarativeNetRequest"
     ],
     "declarative_net_request": {
         "rule_resources": [
