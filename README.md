@@ -4,6 +4,12 @@ A browser extension to block disinformation.
 
 Tested in Chrome, Edge, and Firefox.
 
+Status:
+
+- Chrome: in review ⏳
+- Firefox: in review ⏳
+- Edge: in review ⏳
+
 ## Current block rules
 
 - All URLs investigated by CORRECTIV (see [article](https://correctiv.org/en/fact-checking-en/2025/01/24/disinformation-operation-russian-meddling-in-german-election-campaign-exposed/), [domain list](https://correctiv.org/wp-content/uploads/2025/01/storm1516_domains-CORRECTIV-%E2%80%93-Einflussoperation-enttarnt-Russland-greift-in-deutschen-Wahlkampf-ein.pdf)) - see [storm1516_correctiv.txt](storm1516_correctiv.txt)
@@ -15,7 +21,6 @@ Spread the word! And please report bugs and new URLs via the [issue tracker](htt
 
 ## Wanted
 
-- Edge: Help wanted to officially publish this extension in Microsoft Edge.
 - Firefox for Android: how to publish it here?
 
 ## Technical info
