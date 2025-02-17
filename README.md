@@ -7,21 +7,23 @@ Tested in Chrome, Edge, and Firefox.
 Status:
 
 - Chrome: in review ⏳
-- Firefox: in review ⏳
+- Firefox: [install here](https://addons.mozilla.org/de/firefox/addon/block-disinformation/)
 - Edge: in review ⏳
 
 ## Manual Installation
 
 ### Install on Chrome or Edge
 
-1. Download the `*.crx.zip` file from [latest releases](https://github.com/mreichelt/block-disinformation-extension/releases/latest)
+1. Download the `.zip` file from [latest releases](https://github.com/mreichelt/block-disinformation-extension/releases/latest)
 2. Unpack the ZIP
-3. Install the `*.crx` file as extension
+3. In Chrome, open `chrome://extensions`
+4. Open the folder with 'Load unpacked'
 
 ### Install on Firefox
 
-1. Download the regular (not crx) `*.zip` file from [latest releases](https://github.com/mreichelt/block-disinformation-extension/releases/latest)
-2. Install it as extension
+1. Download the `.xpi` file from [latest releases](https://github.com/mreichelt/block-disinformation-extension/releases/latest)
+2. Open `about:addons` in Firefox
+3. On the settings icon, select 'Install add-on from file', and open the xpi file
 
 ## Current block rules
 
