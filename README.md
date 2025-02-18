@@ -6,7 +6,7 @@ Tested in Chrome, Edge, and Firefox.
 
 Status:
 
-- Chrome: in review ⏳
+- Chrome: [install here](https://chromewebstore.google.com/detail/block-disinformation/gfiedhngeghhnhodbajgiafgofdjoghj)
 - Firefox: [install here](https://addons.mozilla.org/de/firefox/addon/block-disinformation/)
 - Edge: in review ⏳
 
