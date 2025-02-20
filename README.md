@@ -7,8 +7,8 @@ Tested in Chrome, Edge, and Firefox.
 Status:
 
 - Chrome: [install here](https://chromewebstore.google.com/detail/block-disinformation/gfiedhngeghhnhodbajgiafgofdjoghj)
-- Firefox: [install here](https://addons.mozilla.org/de/firefox/addon/block-disinformation/)
-- Edge: in review ⏳
+- Firefox: [install here](https://addons.mozilla.org/firefox/addon/block-disinformation/)
+- Edge: [install here](https://microsoftedge.microsoft.com/addons/detail/block-disinformation/aoicdlccokphjihlflfndlkcmfiaodic)
 
 ## Manual Installation
 
